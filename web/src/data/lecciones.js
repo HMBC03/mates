@@ -312,7 +312,7 @@ export const lecciones = [
 
 export const practica = {
   titulo: "Ejercicios del Taller 1",
-  introHtml: "Intenta cada ejercicio <strong>antes</strong> de abrir la solución. El taller completo\n        está en\n        <a href=\"../../../Contenidos/Talleres/Taller1_Matematicas_basicas.md\">Contenidos/Talleres/Taller1_Matematicas_basicas.md</a>.",
+  introHtml: "Intenta cada ejercicio <strong>antes</strong> de abrir la solución. El taller completo forma parte del material del curso.",
   ejercicios: [
   {
     "titulo": "Ejercicio IX — Describir conjuntos con palabras",
