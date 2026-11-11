@@ -1,0 +1,8 @@
+[project]
+name = "matematicas-basicas-manim"
+version = "0.1.0"
+description = "Animaciones Manim del curso Matemáticas Básicas (UNAL). Unidad 1: Conjuntos."
+requires-python = ">=3.11"
+dependencies = [
+    "manim>=0.22.0,<0.23.0",
+]

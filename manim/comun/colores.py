@@ -1,0 +1,12 @@
+"""Paleta de colores compartida por todas las escenas del curso."""
+
+AZUL = "#4A90D9"
+VERDE = "#41B883"
+ROJO = "#E05263"
+AMARILLO = "#F5C542"
+NARANJA = "#F28E2B"
+MORADO = "#9B5DE5"
+BLANCO = "#FFFFFF"
+GRIS = "#A8B2C1"
+FONDO = "#0F1117"
+TARJETA = "#1B2233"

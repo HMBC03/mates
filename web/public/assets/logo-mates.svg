@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Mates">
+  <defs>
+    <linearGradient id="matesGrad" x1="6" y1="4" x2="42" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2b9bff"/>
+      <stop offset="1" stop-color="#0b57c9"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="13" fill="url(#matesGrad)"/>
+  <path d="M13 17.5h22M19.5 17.5V35M31 17.5V35"
+        fill="none" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round"/>
+  <circle cx="36.5" cy="11.5" r="2.6" fill="#8fd0ff"/>
+</svg>

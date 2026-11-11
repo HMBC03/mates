@@ -1,0 +1,21 @@
+# Dependencias de la web
+web/node_modules/
+web/dist/
+web/.vite/
+
+# Python y renders de Manim
+manim/.venv/
+manim/media/
+__pycache__/
+*.py[cod]
+
+# Material de estudio local (no se publica)
+/Contenidos/
+/Programa_*.md
+*.pdf
+
+# Entorno y sistema
+.env
+.env.*
+.DS_Store
+Thumbs.db
